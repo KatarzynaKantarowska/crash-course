@@ -8,5 +8,11 @@ public class MainThis {
         System.out.println("ODDZIELENIE");
         KlasaRozszerzonaThis obiekt3 = new KlasaRozszerzonaThis(1,2);
 
+        System.out.println(obiekt3.x);
+        System.out.println(obiekt3.y);
+
+        obiekt3.metodaZParametrami(4567892);
+        System.out.println("pole: " + obiekt3.pole);
+
     }
 }

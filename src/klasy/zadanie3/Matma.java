@@ -1,10 +1,17 @@
 package klasy.zadanie3;
 
+import wyjątki.LiczbaUjemnaException;
+
 public class Matma {
 
     public static final double PI = 3.14;
 
+
+
     public static double obwodKola(double r) {
+        if (r < 0){
+            throw new LiczbaUjemnaException();
+        }
         double wynik = 0;
         wynik = 2 * PI * r;
         return wynik;

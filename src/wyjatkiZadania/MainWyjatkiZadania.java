@@ -2,8 +2,6 @@ package wyjatkiZadania;
 
 //import klasy.zadanie3.Matma;
 import klasy.zadanie3.Matma;
-import wyjątki.LiczbaUjemnaException;
-import static klasy.zadanie3.Matma.obwodKola;
 
 public class MainWyjatkiZadania {
     public static void main(String[] args) {

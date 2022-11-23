@@ -1,4 +1,4 @@
-package wyjątki;
+package wyjatki;
 
 public class MainWyjatkiTworzenie {
     public static void main(String[] args) {

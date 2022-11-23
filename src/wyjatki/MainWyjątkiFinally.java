@@ -1,4 +1,4 @@
-package wyjątki;
+package wyjatki;
 
 public class MainWyjątkiFinally {
    static String str = "String tekstowy";

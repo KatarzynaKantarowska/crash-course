@@ -1,4 +1,4 @@
-package wyjątki;
+package wyjatki;
 
 public class MainWyjatkiObsluga {
     static String str;

@@ -1,4 +1,4 @@
-package wyjątki;
+package wyjatki;
 
 import java.io.File;
 import java.io.FileInputStream;

@@ -1,6 +1,6 @@
 package klasy.zadanie3;
 
-import wyjątki.LiczbaUjemnaException;
+import wyjatki.LiczbaUjemnaException;
 
 public class Matma {
 
